@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" width="150px"/>
+    <img src="https://avatars.githubusercontent.com/u/220402277?s=200&v=4" width="150px"/>
     <h3>ArslandTeam</h3>
     <p>GitHub организация проекта Arsland</p>
     <a href="https://docs.arsland.ru">Документация</a> <br>
