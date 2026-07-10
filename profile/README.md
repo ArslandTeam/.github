@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/220402277?s=200&v=4" width="150px"/>
     <h3>ArslandTeam</h3>
     <p>GitHub организация проекта Arsland</p>
-    <a href="https://docs.arsland.ru">Документация</a> <br>
+    <a href="https://docs.arsland.dev">Документация</a> <br>
     <a href="https://t.me/arsland_minecraft">Telegram</a>
     <br>
     <a href="https://discord.gg/e3X5AbSfsj">Discord</a>
